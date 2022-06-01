@@ -12,7 +12,7 @@ Felix has worked for TomTom before (2006 - 2010) where he worked on the early ve
 
 In 2010 he co-founded [QuestionMark](https://www.thequestionmark.org/en), an open, independent data platform which goal is to create a movement to accelerate the use and adaptation of sustainable production methods in food production.
 
-Beginning of 2013 Felix co-founded [Simacan](https://www.simacan.com) which develops a real-time supply chain collaboration and visibility platform. As CTO he focussed on strategy and engineering culture and founded the [OpenTripModel](https://www.opentripmodel.org), an open standard for exchanging logistic data on the web.
+Beginning of 2013 Felix co-founded Simacan which develops a real-time supply chain collaboration and visibility platform. As CTO he focussed on strategy and engineering culture and founded the [OpenTripModel](https://www.opentripmodel.org), an open standard for exchanging logistic data on the web.
 
 Before returning to TomTom he worked at the [Foundation for Public Code](https://publiccode.net) advising governments on how to collaboratively develop, use, maintain and fund open source software.
 
