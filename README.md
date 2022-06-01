@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on open source best practices,license compliance and integrating open source into our product management strategy
 - 📫 How to reach me felix.faassen@tomtom.com
 
-<!---
-FelixFaassen-TomTom/FelixFaassen-TomTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
 # Biography
 
 Felix has created open data and standards as part of a 20+ year career founding and developing non-profit and commercial products and organizations. He now leads the development of TomTom's Open Source Program Office (OSPO).
@@ -23,8 +19,3 @@ Before returning to TomTom he worked at the [Foundation for Public Code](https:/
 Felix loves jazz and classical music. He plays piano and loves (analog) synthesizers and composes his own music. When not making music he is enjoying time with his family and enjoying nature in all its beauty and wonder.
 
 [GitHub](https://github.com/felixfaassen) | [Twitter](https://twitter.com/felixfaassen) | [LinkedIn](https://www.linkedin.com/in/felixfaassen/)
-
-
-
-
-
