@@ -2,6 +2,7 @@
 - 👀 I’m interested in open source  & data transparency ❤️ jazz & sustainability 
 - 🌱 I’m currently developing an Open Source Program within TomTom
 - 💞️ I’m looking to collaborate on open source best practices,license compliance and integrating open source into our product management strategy
+- I'm looking for interns helping me further develop the Open Source Program Office within TomTom
 - 📫 How to reach me felix.faassen@tomtom.com
 
 # Biography
