@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelixFaassen-TomTom
 - 👀 I’m interested in open source  & data transparency ❤️ jazz & sustainability 
-- 🌱 I’m currently learning how to setup an Open Source Program within TomTom
+- 🌱 I’m currently developing an Open Source Program within TomTom
 - 💞️ I’m looking to collaborate on open source best practices,license compliance and integrating open source into our product management strategy
 - 📫 How to reach me felix.faassen@tomtom.com
 
